@@ -1,0 +1,24 @@
+{
+  "name": "@uzenith360/ngx-unsaved-changes",
+  "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public",
+    "tag": "latest"
+  },
+  "peerDependencies": {
+    "@angular/animations": "^17.0.9",
+    "@angular/cdk": "^17.0.5",
+    "@angular/common": "^17.0.9",
+    "@angular/compiler": "^17.0.9",
+    "@angular/core": "^17.0.9",
+    "@angular/forms": "^17.0.9",
+    "@angular/material": "^17.0.5",
+    "@angular/platform-browser": "^17.0.9",
+    "@angular/platform-browser-dynamic": "^17.0.9",
+    "@angular/router": "^17.0.9"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
